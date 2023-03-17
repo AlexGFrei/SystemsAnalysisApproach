@@ -1,3 +1,5 @@
+[Eng](#centralized-requirements-model-setup-instructions) | [Rus](#инструкция-по-настройке-централизованной-модели-требований)
+
 <h1>Centralized Requirements Model Setup Instructions</h1>
 
 In order to set up a centralized requirements model and allow the development and/or systems analysis team to work on the same requirements, as well as ensure version control of requirements, the following steps need to be taken:
